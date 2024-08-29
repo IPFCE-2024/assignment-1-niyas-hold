@@ -2,7 +2,7 @@
 
 int main() {
 
-    int a, b, c; // integers, a and b, are defined
+    int a, b, c; // integers, a, b and d, are defined
 
     printf ("Input two numbers:\n");
     scanf ("%d, %d, &a, &b");
@@ -11,8 +11,8 @@ int main() {
 
     c = a + b; // sum of user inputted integers
 
-    printf ("Sum of the two numbers = (%d)\n", a); // prints sum
+    printf ("Sum of the two numbers = (%d)\n", c); // prints sum
     
     return 0;
-    
+
 }
