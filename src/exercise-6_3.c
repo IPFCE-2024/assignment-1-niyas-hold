@@ -11,7 +11,7 @@ int main() {
 
     e = a + b + c + d; // sum of user inputted integers
 
-    printf ("Sum of the two numbers = (%d)\n", e); // prints sum
+    printf ("Sum of the four numbers = (%d)\n", e); // prints sum
     
     return 0;
 
